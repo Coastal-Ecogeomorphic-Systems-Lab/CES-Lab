@@ -1,24 +1,13 @@
 ---
-title: "Dr. Phillip P. Schmutz (he/him/his)"
+title: "Coastal Ecogeomorphic Systems Lab"
 ---
 
-::: columns
-::: {.column width="25%"}
-![](files/PhillipSchmutz.jpg){.rounded width="100%" height="275px" fig-alt="Photo of Phillip Schmutz"}
-:::
+The ***Coastal Ecogeomorphic Systems (CES) Lab*** examines the geomorphic processes shaping coastal and aeolian landscapes and how human activities influence their evolution, function, and resilience. The lab emphasizes applied coastal science, with particular attention to beach nourishment, dune restoration, and other management interventions that modify natural sedimentary systems.
 
-::: {.column width="2.5%"}
-:::
+Research integrates field- and laboratory-based investigations with remote sensing, geospatial analysis, and process-based modeling to examine interactions among waves, tides, wind, sediment transport, groundwater, ecological systems, and human modifications on coastal beach and dune environments. This integrated approach allows the lab to evaluate how natural processes and management decisions interact to shape coastal form and long-term stability.
 
-::: {.column width="72.5%"}
-I am an Associate Professor and Chair of the Department of Earth and Environmental Sciences at the University of West Florida.
+The lab supports undergraduate and graduate research projects focused on beach–dune morphologic evolution, the effectiveness of dune restoration and stabilization efforts, the ecological role of dune growth and vegetation, and the influence of coastal topography on habitat use, including sea turtle nesting behavior. Additional work examines how anthropogenic modifications—such as nourishment, infrastructure, and recreational use—affect sediment transport and coastal resilience. Collectively, this research informs coastal management, restoration planning, and resilience strategies across developed and natural shorelines. 
 
-My research focuses on coastal and aeolian geomorphology, with particular emphasis on beach--dune systems and the processes that influence sediment transport, dune development, and coastal resilience.
+**CES Lab is actively seeking motivated graduate and undergraduate students interested in coastal geomorphology and human–environment systems!** 
 
-Methodologically, I integrate field-based measurements, uncrewed aerial systems (UAS), geospatial analysis, and environmental statistical modeling to examine coastal processes across space and time. My work leverages drone-derived topography, LiDAR data, field surveys, and long-term monitoring datasets to evaluate relationships between coastal geomorphology and habitat use, supporting data-driven conservation and coastal management decisions.
-
-I have published in journals such as Geomorphology, Aeolian Research, Geophysical Research Letters, Southeastern Geographer, and Ocean and Coastal Management, and regularly present at national and regional professional conferences.
-
-At UWF, I teach courses in Earth Science, geomorphology, and coastal systems, and am committed to undergraduate and graduate research, field-based learning, and interdisciplinary collaboration.
-:::
-:::
+---

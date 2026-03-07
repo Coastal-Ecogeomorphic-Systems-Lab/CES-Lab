@@ -8,7 +8,7 @@ website:
     collapse-below: sm 
     left:
       - text: "Home"
-        href: ces.qmd
+        href: index.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Research"

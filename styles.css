@@ -18,3 +18,7 @@ a:hover {
   color: #8DC8E8;
 }
 
+/* Increase page width */
+.container-fluid {
+  max-width: 1500px;
+}
