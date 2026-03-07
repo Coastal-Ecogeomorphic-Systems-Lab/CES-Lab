@@ -4,7 +4,7 @@ title: "Facilities"
 
 ## Overview
 
-Research conducted by the Morgan Lab is largely through field-based projects, including acquisition and analysis of coastal morphology, sediments, and other physical/environmental parameters. 
+Research conducted by the CES Lab is largely through field-based projects, including acquisition and analysis of coastal morphology, sediments, and other physical/environmental parameters. 
 
 The lab is equipped with state-of-the-art topographic surveying equipment, including two high-accuracy (sub-centimeter) Emlid Real-Time Kinematic Global Positioning System (RTK GPS), a CST-Berger total station, and DJI Unmanned Aerial Vehicle (UAV). We also have licenses for AgiSoft Metashape - Structure for Motion Software to construct orthomosaic and DEMs from UAV images.  
 
@@ -12,9 +12,8 @@ Wind and aeolian sediment transport data can be collected using a variety of 3-c
 
 Surface sediments can be analyzed using a Retsch sonic sieve shaker and a full range of U.S. standard 8" sieves. Other environmental monitoring equipment available includes temp & RH sensors, water level pressure transducers, current flow meters, soil moisture probes, and rain gauges. 
 
-Through faculty collaborations, students working in the JP Morgan Lab also have access to a variety of additional field and laboratory instruments pertaining to soil, meteorological, and hydrological research.
+Through faculty collaborations, students working in the CES Lab also have access to a variety of additional field and laboratory instruments pertaining to soil, meteorological, and hydrological research.
 
----
 
 ## List of all Field and Laboratory Equipment
 
