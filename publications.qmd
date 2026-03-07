@@ -5,12 +5,12 @@ title: "Publications"
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Phillip-Schmutz-2) or [ORCID](https://orcid.org/0000-0002-7243-4815).
 
 ---
-
-### Peer-Reviewed Manuscripts
 **Bolded author indicates the lab director.**  
 <sup>U</sup> Undergraduate student co-author  
 <sup>G</sup> Graduate student co-author
 
+
+### Peer-Reviewed Manuscripts
 
 Williams, M.<sup>G</sup>, & **P.P. Schmutz**. 2026. Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida. *Southeastern Geographer*, *66* (2), 152-180. [https://doi.org/10.1353/sgo.0.a981639](https://doi.org/10.1353/sgo.0.a981639)
 

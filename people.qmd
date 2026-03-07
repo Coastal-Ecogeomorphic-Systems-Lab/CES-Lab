@@ -12,11 +12,11 @@ title: "People"
 }
 :::
 
-::: {.column width="8%"}
+::: {.column width="5%"}
 
 :::
 
-::: {.column width="80%"}
+::: {.column width="83%"}
 
 **Phillip Schmutz, PhD**  
 Assocaite Professor, Department of Earth & Environmental Sciences <Br>
@@ -40,8 +40,11 @@ Thesis: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unm
 
 ## Undergraduate Researchers
 
-**[Student Name]**  
-[Research interest or project]
+**Lucia Dillersberger**
+Honors Thesis: Accuracy of Different GPS Data Collection Methods for Drone-Based Dune Research
+
+**Gabby Beemer**
+Honors Thesis: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling
 
 ---
 

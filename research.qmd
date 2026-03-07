@@ -28,6 +28,14 @@ This project investigates how vegetation composition, spatial structure, and sed
 [Learn More](dunes.qmd)
 :::
 
+::: {.g-col-4}
+### Vegetation Recovery in a Trampled Dune Systems
+
+This project investigates the recovery of coastal dune vegetation following human trampling disturbance. Building on previous work by [Hesp et al., 2009](https://doi.org/10.1016/j.aeolia.2010.03.001), multiple trampling profile treatments were applied across the dune system. The trampled dune profiles will be revisited monthly for one year to quantify vegetation recovery, changes in species composition, and spatial patterns of regrowth. By examining recovery trajectories over time, the study will provide insight into the resilience of dune vegetation and the ecological timescales required for dune systems to recover from recreational disturbance.
+
+[Learn More](trampling.qmd)
+:::
+
 :::
 
 
