@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Coastal Ecogeomorphic Systems Lab"
+  site-url: "https://coastal-ecogeomorphic-systems-lab.github.io/CES-Lab/"
   navbar:
     collapse-below: sm 
     left:
