@@ -1,4 +1,3 @@
-
 * {
   font-family: Arial !important;
 }
@@ -19,16 +18,15 @@ a:hover {
   color: #8DC8E8;
 }
 
-/* Make the main Quarto content area wider and left-weighted */
+/* Widen and left-weight the main page area */
 #quarto-content .page-columns {
   grid-template-columns:
-    [screen-start] 2rem
-    [page-start] minmax(0, 1400px)
+    [screen-start] 1rem
+    [page-start] minmax(0, 75vw)
     [page-end] 1fr
     [screen-end];
 }
 
-/* Keep the article content in that wider left-aligned column */
 #quarto-content main.content {
   grid-column: page-start / page-end;
 }
