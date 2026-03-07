@@ -14,11 +14,11 @@ title: "People"
 }
 :::
 
-::: {.column width="2%"}
+::: {.column width="7%"}
 
 :::
 
-::: {.column width="27.5%"}
+::: {.column width="30%"}
 
 **Phillip Schmutz, PhD**  
 Assocaite Professor, Department of Earth & Environmental Sciences <Br>
@@ -27,30 +27,7 @@ pschmutz[at]uwf.edu
 
 :::
 
-::: {.column width="5%"}
-
-:::
-
-
-::: {.column width="18%"}
-![](files/PhillipSchmutz.jpg){
-  width=100%
-  height=200px
-  fig-alt="Photo of Phillip Schmutz"
-  .rounded
-}
-:::
-
-::: {.column width="2%"}
-
-:::
-
-::: {.column width="27.5%"}
-
-**Samantha Seals, PhD**  
-Associate Professor, Department of Mathematics & Statistics <Br>
-University of West Florida  
-sseals[at]uwf.edu 
+::: {.column width="45%"}
 
 :::
 
@@ -62,7 +39,7 @@ sseals[at]uwf.edu
 Thesis: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
 
 **Maggie Darbyshire**  
-Thesis: TBD
+Thesis: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
 
 ---
 

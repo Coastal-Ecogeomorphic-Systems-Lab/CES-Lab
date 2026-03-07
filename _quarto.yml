@@ -15,8 +15,10 @@ website:
         href: research.qmd
       - text: "People"
         href: people.qmd
-      - text: "Equipment"
+      - text: "Facilities"
         href: equipment.qmd
+      - text: "Project Data"
+        href: data.qmd     
       - text: "Computational Geomorphology and Modeling Lab"
         href: cgmlab.qmd
   

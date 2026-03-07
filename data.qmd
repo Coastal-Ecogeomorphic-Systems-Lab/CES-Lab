@@ -1,0 +1,19 @@
+---
+title: "Project Data"
+---
+
+## Projects
+
+### Sea Turtle Nesting Species Distribution Modeling
+
+This project uses spatial and statistical analyses to examine sea turtle nesting behavior, with a focus on how beach and dune morphology influences nest-site selection at fine spatial scales. By integrating long-term nesting records with high-resolution topographic data, the research evaluates how geomorphic variability shapes nesting decisions across developed and undeveloped coastlines. The results support habitat conservation and coastal management by linking physical coastal processes to ecological decision-making in dynamic beach–dune environments.
+
+### Beach Wrack as a Nature-Based Solution to Dune Restoration
+
+This project examines beach wrack (e.g., seaweed and organic debris) as a form of natural infrastructure, focusing on how wrack presence, removal, or redistribution influence wind flow, sediment trapping, and beach–dune feedbacks. Through field-based measurements, the study evaluates how wrack alters near-surface aerodynamics and sediment transport processes that contribute to beach-dune development and stabilization. By linking physical processes with management practices, this research provides empirical guidance for nature-based dune restoration and coastal hazard mitigation strategies under increasing disturbance and sea-level rise.
+
+### Ecogeomorphic Controls on Coastal Dune Morphology
+
+This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along ~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale. The resulting analyses and statistical modeling provide insights to better evaluate and inform nature-based coastal management and restoration strategies under increasing climate and disturbance pressures.
+
+
