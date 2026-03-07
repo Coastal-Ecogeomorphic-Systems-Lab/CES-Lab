@@ -27,9 +27,6 @@ pschmutz[at]uwf.edu
 
 :::
 
-::: {.column width="45%"}
-
-:::
 
 ---
 
