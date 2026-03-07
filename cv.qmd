@@ -36,11 +36,11 @@ Department of Earth & Env. Sciences
   - Texas A&M University
   
 ### Technical Skills:
-* Programming Languages:
-  * R (intermediate)
-  * Python (elementary)
-* GIS - Geographic Information Systems
-  * ArcGIS Pro
-* UAV Structure from Motion (SfM)
-  * Agisoft Metashape
-  * Pix4D Mapper
+- Programming Languages:
+  - R (intermediate)
+  - Python (elementary)
+- GIS - Geographic Information Systems
+  - ArcGIS Pro
+- UAV Structure from Motion (SfM)
+  - Agisoft Metashape
+  - Pix4D Mapper

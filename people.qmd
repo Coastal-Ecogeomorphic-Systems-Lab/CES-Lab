@@ -5,7 +5,7 @@ title: "People"
 ## Principal Investigator
 
 ::: {.columns}
-::: {.column width="18%"}
+::: {.column width="12%"}
 ![](files/PhillipSchmutz.jpg){
   width=100%
   height=200px
@@ -14,11 +14,11 @@ title: "People"
 }
 :::
 
-::: {.column width="7%"}
+::: {.column width="8%"}
 
 :::
 
-::: {.column width="30%"}
+::: {.column width="80%"}
 
 **Phillip Schmutz, PhD**  
 Assocaite Professor, Department of Earth & Environmental Sciences <Br>
