@@ -20,9 +20,6 @@ website:
         href: equipment.qmd
       - text: "Project Data"
         href: data.qmd     
-      - text: "Computational Geomorphology and Modeling Lab"
-        href: cgmlab.qmd
-  
 
   page-footer:
     right: "© pschmutz, University of West Florida"
