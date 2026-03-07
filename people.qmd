@@ -1,0 +1,96 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+::: {.columns}
+::: {.column width="18%"}
+![](files/PhillipSchmutz.jpg){
+  width=100%
+  height=200px
+  fig-alt="Photo of Phillip Schmutz"
+  .rounded
+}
+:::
+
+::: {.column width="2%"}
+
+:::
+
+::: {.column width="27.5%"}
+
+**Phillip Schmutz, PhD**  
+Assocaite Professor, Department of Earth & Environmental Sciences <Br>
+University of West Florida  
+pschmutz[at]uwf.edu
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+
+::: {.column width="18%"}
+![](files/PhillipSchmutz.jpg){
+  width=100%
+  height=200px
+  fig-alt="Photo of Phillip Schmutz"
+  .rounded
+}
+:::
+
+::: {.column width="2%"}
+
+:::
+
+::: {.column width="27.5%"}
+
+**Samantha Seals, PhD**  
+Associate Professor, Department of Mathematics & Statistics <Br>
+University of West Florida  
+sseals[at]uwf.edu 
+
+:::
+
+---
+
+## Graduate Students
+
+**Gabby Westerfield**  
+Thesis: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
+
+**Maggie Darbyshire**  
+Thesis: TBD
+
+---
+
+## Undergraduate Researchers
+
+**[Student Name]**  
+[Research interest or project]
+
+---
+
+## Alumni
+### Graduate Students
+
+| Name | Year | Thesis | Current Position |
+|----------|----|------------------------------|-----------------|
+| Halie Weatherington | 2026 | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
+| Jordan Lewis | 2025 | Using a Thermal Unoccupied Aerial Vehicle to Detect Submarine Groundwater Discharge in Escambia Bay, Florida | Railroad Commission of Texas |
+| Divina Cox | 2025 | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
+| Madison Williams | 2022 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
+| Marley Allen | 2019 | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
+| Chloe Jackson | 2019 | Exposure of the Property Protection Service to Environmental Stressors in the Gulf of Mexico | Ph.D. Student @ Boston University |
+| Meagan Russell | 2018 | Application of an Unmanned Aerial Vehicle to Assess Dune Vulnerability| Program Coordinator for STEM Scholars at UWF |
+
+### Undergraduate Students
+| Name | Year | Thesis | Current Position |
+|----------|----|------------------------------|-----------------|
+| Joe Agin | 2024 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Project Scientists @ PPM Consultants, Inc |
+| Liliana Blouin | 2024 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Graduate Students @ Manchester Metropolitan University, UK |
+| Kyle Allen | 2023 | Quantifying Seasonal Change in a Coastal Dune System using a UAV on Pensacola Beach, Florida | Environmental Scientist @ Raba Kistner, Inc. |
+| Lexi Nelson | 2019 | The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture | Data Scientist @ the Gulf Ecology Division of the EPA |
+| Tynon (Ty) Briggs | 2018 | Calculating Aeolian Sediment Transport Relative to The Presence of Gravel Lag | Environmental Consultant |

@@ -1,1 +1,20 @@
-/* css styles */
+* {
+  font-family: Arial !important;
+}
+
+.navbar {
+  background-color: #004C97 !important;  /* UWF Green */
+}
+
+h1, h2, h3 {
+  color: #004C97;
+}
+
+a {
+  color: #004C97;
+}
+
+a:hover {
+  color: #8DC8E8;
+}
+
