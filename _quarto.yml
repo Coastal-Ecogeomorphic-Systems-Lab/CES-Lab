@@ -4,30 +4,23 @@ project:
   
 website:
   title: "Coastal Ecogeomorphic Systems Lab"
-  site-url: "https://phillipschmutz.github.io"
   navbar:
     collapse-below: sm 
     left:
-      - text: "About Me"
-        menu:
-          - text: "About Me"
-            href: index.qmd
-          - text: "CV"
-            href: cv.qmd
-          - text: "Publications"
-            href: publications.qmd
-      - text: "Research Labs"
-        menu:
-          - text: "Computational Geomorphology and Modeling Lab"
-            href: cgmlab.qmd
-          - text: "Coastal Ecogeomorphic Systems Lab"
-            href: ceslab.qmd   
-          - text: "Research"
-            href: research.qmd
-          - text: "People"
-            href: people.qmd
-          - text: "Equipment"
-            href: equipment.qmd
+      - text: "Home"
+        href: ces.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Equipment"
+        href: equipment.qmd
+      - text: "Computational Geomorphology and Modeling Lab"
+        href: cgmlab.qmd
+  
+
   page-footer:
     right: "© pschmutz, University of West Florida"
 
