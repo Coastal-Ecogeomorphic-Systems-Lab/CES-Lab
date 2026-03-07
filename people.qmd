@@ -26,27 +26,24 @@ pschmutz[at]uwf.edu
 :::
 
 
----
-
 ## Graduate Students
 
-**Gabby Westerfield**  
+**Gabby Westerfield**<br>
 Thesis: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
 
-**Maggie Darbyshire**  
+**Maggie Darbyshire**<br>
 Thesis: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
 
----
 
 ## Undergraduate Researchers
 
-**Lucia Dillersberger**
+**Lucia Dillersberger**<br>
 Honors Thesis: Accuracy of Different GPS Data Collection Methods for Drone-Based Dune Research
 
-**Gabby Beemer**
+**Gabby Beemer**<br>
 Honors Thesis: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling
 
----
+
 
 ## Alumni
 ### Graduate Students
