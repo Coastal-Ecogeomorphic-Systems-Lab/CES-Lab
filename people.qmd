@@ -7,10 +7,8 @@ title: "People"
 ::: {.columns}
 ::: {.column width="12%"}
 ![](files/PhillipSchmutz.jpg){
-  width=100%
-  height=200px
   fig-alt="Photo of Phillip Schmutz"
-  .rounded
+  .profile-circle
 }
 :::
 
