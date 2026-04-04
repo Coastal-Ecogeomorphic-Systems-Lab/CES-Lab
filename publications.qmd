@@ -2,9 +2,6 @@
 title: "Publications"
 ---
 
-For a full list, see [Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2) or [ORCID](https://orcid.org/0000-0002-7243-4815).
-
-
 **Bolded author indicates the lab director.**  
 <sup>U</sup> Undergraduate student co-author  
 <sup>G</sup> Graduate student co-author
@@ -30,22 +27,6 @@ Jackson, C.<sup>G</sup>, **P.P. Schmutz**, M. Harwell, and C. Littles. 2020. The
 
 **Schmutz, P.P.**, T. Briggs<sup>U</sup>, and P. Tereszkiewicz. 2019. The utility of an omni-directional photoelectronic sensor device to measure meso-scale variability in aeolian sediment transport activity. *Aeolian Research*, *36*, 61-67. [https://doi.org/10.1016/j.aeolia.2018.11.003](https://doi.org/10.1016/j.aeolia.2018.11.003)
 
-**Schmutz, P.P.**, and S.L. Namikas. 2018. Measurement and modeling of the spatiotemporal dynamics of beach surface moisture content. *Aeolian Research*, *34*, 35-48. [https://doi.org/10.1016/j.aeolia.2018.08.001](https://doi.org/10.1016/j.aeolia.2018.08.001)
-
-**Schmutz, P.P.**, and S.L. Namikas. 2013. Measurements and Modeling of Moisture Contents Above an Oscillating Water Table: Implications for Beach Surface Moisture Dynamics. *Earth Surface Processes and Landforms*, *38* (11), 1317–1325. [https://doi.org/10.1002/esp.3418](https://doi.org/10.1002/esp.3418)
-
-Edwards, B.L., **P.P. Schmutz**, and S.L. Namikas. 2012. Comparison of surface moisture measurements to depth-integrated moisture measurements on a fine-grained beach.
-*Journal of Coastal Research*, *29* (6), 1284-1291. [https://doi.org/10.2112/JCOASTRES-D-12-00008.1](https://doi.org/10.2112/JCOASTRES-D-12-00008.1)
-
-**Schmutz, P.P.**, and S.L. Namikas. 2011. Utility of Delta-T Theta Probe for Obtaining Moisture Measurements from Beaches. *Journal of Coastal Research*, *27* (3), 478-485. [https://doi.org/10.2112/08-1130.1](https://doi.org/10.2112/08-1130.1)
-
-Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio. 2010. The Effect on Coastal Vegetation of Trampling on a Parabolic Dune. *Aeolian Research*, *2* (2), 105-111. [https://doi.org/10.1016/j.aeolia.2010.03.001](https://doi.org/10.1016/j.aeolia.2010.03.001)
-
-
-### Book Chapters
-
-**Schmutz, P.P., A.E. Potter, and A.E. Modlin**. 2017. Aruba, Curacao, and Bonaire, *In: Allen, C (Ed.), Landscapes and Landforms of the Lesser Antilles*. Springer International Publishing. [https://doi.org/10.1007/978-3-319-55787-8](https://doi.org/10.1007/978-3-319-55787-8)
-
 
 ### Technical Reports (Non-Peer-Reviewed)
 
@@ -54,4 +35,6 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 ### In Review
 
-Cox, D., **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence–Pseudo-Absence Data. *Ecosphere*. 
+Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence–Pseudo-Absence Data. *Ecosphere*. 
+
+Agin, J. <sup>UG</sup>, **P.P. Schmutz**, P. Tereszkiewicz, and S.R. Seals. In Review (2026). Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes. *Aeolian Research*.
