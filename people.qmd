@@ -48,21 +48,21 @@ Honors Thesis: From Disturbance to Recovery: Long-Term Vegetation Response to Du
 ## Alumni
 ### Graduate Students
 
-| Name | Year | Program |Thesis/Capstone | Current Position |
-|----------|----|-----|------------------------------|-----------------|
-| Halie Weatherington | 2026 | EES | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
-| Jordan Lewis | 2025 | EES | Using a Thermal Unoccupied Aerial Vehicle to Detect Submarine Groundwater Discharge in Escambia Bay, Florida | Railroad Commission of Texas |
-| Divina Cox | 2024 | EES | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
-| Madison Williams | 2022 | EES | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
-| Marley Allen | 2019 | EES | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
-| Chloe Jackson | 2019 | EES | Exposure of the Property Protection Service to Environmental Stressors in the Gulf of Mexico | Ph.D. Student @ Boston University |
-| Meagan Russell | 2018 | EES | Application of an Unmanned Aerial Vehicle to Assess Dune Vulnerability| Program Coordinator for STEM Scholars at UWF |
+| Name | Year | Thesis | Current Position |
+|----------|----|------------------------------|-----------------|
+| Halie Weatherington | 2026 | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
+| Jordan Lewis | 2025 | Using a Thermal Unoccupied Aerial Vehicle to Detect Submarine Groundwater Discharge in Escambia Bay, Florida | Railroad Commission of Texas |
+| Divina Cox | 2024 | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
+| Madison Williams | 2022 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
+| Marley Allen | 2019 | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
+| Chloe Jackson | 2019 | Exposure of the Property Protection Service to Environmental Stressors in the Gulf of Mexico | Ph.D. Student @ Boston University |
+| Meagan Russell | 2018 | Application of an Unmanned Aerial Vehicle to Assess Dune Vulnerability| Program Coordinator for STEM Scholars at UWF |
 
 ### Undergraduate Students
-| Name | Year | Program |Thesis/Capstone | Current Position |
-|----------|----|-----|------------------------------|-----------------|
-| Joe Agin | 2024 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
-| Liliana Blouin | 2024 | EES | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Graduate Students @ Manchester Metropolitan University, UK |
-| Kyle Allen | 2023 | EES | AQuantifying Seasonal Change in a Coastal Dune System using a UAV on Pensacola Beach, Florida | Environmental Scientist @ Raba Kistner, Inc. |
-| Lexi Nelson | 2019 | EES | AThe Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture | Data Scientist @ the Gulf Ecology Division of the EPA |
-| Tynon (Ty) Briggs | 2018 | EES | ACalculating Aeolian Sediment Transport Relative to The Presence of Gravel Lag | Environmental Consultant |
+| Name | Year | Thesis | Current Position |
+|----------|----|------------------------------|-----------------|
+| Joe Agin | 2024 | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
+| Liliana Blouin | 2024 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Graduate Students @ Manchester Metropolitan University, UK |
+| Kyle Allen | 2023 | Quantifying Seasonal Change in a Coastal Dune System using a UAV on Pensacola Beach, Florida | Environmental Scientist @ Raba Kistner, Inc. |
+| Lexi Nelson | 2019 | The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture | Data Scientist @ the Gulf Ecology Division of the EPA |
+| Tynon (Ty) Briggs | 2018 | Calculating Aeolian Sediment Transport Relative to The Presence of Gravel Lag | Environmental Consultant |
