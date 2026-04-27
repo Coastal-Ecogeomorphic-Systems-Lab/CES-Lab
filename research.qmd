@@ -2,9 +2,8 @@
 title: "Current Reserach"
 ---
 
-::: {.grid}
-
-::: {.g-col-6}
+::: grid
+::: g-col-6
 ### Sea Turtle Nesting Species Distribution Modeling
 
 This research involves a suite of projects leveraging a 22-year dataset of sea turtle nesting activity from Escambia County, Florida to examine spatial patterns and environmental controls on nesting behavior.
@@ -13,9 +12,10 @@ A core component applies geospatial cluster analysis to identify persistent nest
 <br>
 Together, these projects link spatial statistics, geomorphology, and long-term ecological data to better understand sea turtle nesting behavior and support habitat conservation and coastal management in dynamic beach–dune environments.
 
+[Learn More](turles.qmd)
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ### Beach Wrack as a Nature-Based Solution to Dune Restoration
 
 This research involves a set of projects examining beach wrack (e.g., seaweed and organic debris) as a form of natural coastal infrastructure. The work focuses on how wrack presence, removal, or redistribution influences wind flow, sediment trapping, and beach–dune feedbacks. 
@@ -24,24 +24,26 @@ A central component evaluates how different wrack management strategies—leave,
 <br>
 Together, these projects link coastal geomorphology, process-based understanding, and human dimensions to provide empirical guidance for nature-based dune restoration and coastal hazard mitigation under increasing disturbance and sea-level rise.
 
+[Learn More](wrack.qmd)
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ### Ecogeomorphic Controls on Coastal Dune Morphology
 
-This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along ~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale.
+This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along \~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale.
 <br>
 These datasets are integrated through statistical modeling to identify the relative influence and interaction of vegetation, sediment, and topography in shaping dune development and restoration outcomes. Together, this work provides a process-based framework to inform and evaluate nature-based coastal management strategies under increasing climate and disturbance pressures.
 
+[Learn More](dunes.qmd)
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ### Vegetation Recovery in a Trampled Dune Systems
 
 This project investigates the recovery of coastal dune vegetation following human trampling disturbance. Building on previous work by [Hesp et al., 2009](https://doi.org/10.1016/j.aeolia.2010.03.001), multiple trampling profile treatments were applied across the dune system. The trampled dune profiles will be revisited monthly for one year to quantify vegetation recovery, changes in species composition, and spatial patterns of regrowth. By examining recovery trajectories over time, the study will provide insight into the resilience of dune vegetation and the ecological timescales required for dune systems to recover from recreational disturbance.
 
+[Learn More](trampling.qmd)
 :::
-
 :::
 
 
