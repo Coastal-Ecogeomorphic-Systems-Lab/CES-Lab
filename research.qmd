@@ -16,7 +16,7 @@ title: "Current Reserach"
 :::
 
 ::: g-col-6
-[Vegetation Recovery in a Trampled Dune Systems](trampling.qmd)
+[Vegetation Recovery in a Trampled Dune Systems](trampling.html)
 :::
 :::
 
