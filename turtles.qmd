@@ -4,6 +4,7 @@ title: "Sea Turtle Nesting Species Distribution Modeling"
 ---
 
 This research involves a suite of projects leveraging a 22-year dataset of sea turtle nesting activity from Escambia County, Florida to examine spatial patterns and environmental controls on nesting behavior.
+
 <br>
 Together, these projects link spatial statistics, geomorphology, and long-term ecological data to better understand sea turtle nesting behavior and support habitat conservation and coastal management in dynamic beach–dune environments.
 
@@ -15,7 +16,7 @@ A core component of this project applies geospatial cluster analysis to identify
 
 <br>
 Projects:
-[Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida]((https://doi.org/10.1353/sgo.0.a981639)
+[Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida](https://doi.org/10.1353/sgo.0.a981639)
 Sea turtle nesting behavior along Florida’s western panhandle remains poorly characterized despite its ecological importance and management relevance. We analyzed twenty-two years (1998–2020) of nesting data from Santa Rosa Island and Perdido Key to quantify spatial and temporal clustering in a low-density region (average 1.7 nests/km). Using Optimized Hot Spot Analysis (OHSA), Emerging Hot Spot Analysis (EHSA), and a three-dimensional Space–Time Cube (STC) in ArcGIS Pro, we detected statistically significant spatial clusters and temporal transitions in nesting. OHSA revealed three persistent hotspots—in central Perdido Key, eastern Pensacola Beach near Portofino, and Opal Beach—and four cold spots associated with developed or disturbed beaches. EHSA and STC showed early cold spots (2000–2012) aligning with major disturbances (the 2004–2005 hurricanes and the 2010 Deepwater Horizon oil spill), followed by widespread, persistent hotspots after 2012 as geomorphic conditions stabilized and nesting abundance increased. Collectively, these analyses indicate that nesting is strongly non-random, with persistent high-use areas distributed across the region. Patterns are shaped by beach morphology, disturbance history, development pressure, and changes in nesting population size. Integrating multi-temporal spatial analyses provides a scalable framework for monitoring coastal habitat recovery and guiding adaptive management of vulnerable sea turtle nesting environments.
 
 <br><br>
