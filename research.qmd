@@ -12,7 +12,7 @@ A core component applies geospatial cluster analysis to identify persistent nest
 <br>
 Together, these projects link spatial statistics, geomorphology, and long-term ecological data to better understand sea turtle nesting behavior and support habitat conservation and coastal management in dynamic beach–dune environments.
 
-[Learn More](turles.qmd)
+[Learn More](turtles.html)
 :::
 
 ::: g-col-6
