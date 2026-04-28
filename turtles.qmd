@@ -3,9 +3,8 @@ title: "Sea Turtle Nesting Species Distribution Modeling"
 "
 ---
 
-This research involves a suite of projects leveraging a 22-year dataset of sea turtle nesting activity from Escambia County, Florida to examine spatial patterns and environmental controls on nesting behavior.
+This research involves a suite of projects leveraging a 22-year dataset of sea turtle nesting activity from Escambia County, Florida to examine spatial patterns and environmental controls on nesting behavior. <br>
 
-<br>
 Together, these projects link spatial statistics, geomorphology, and long-term ecological data to better understand sea turtle nesting behavior and support habitat conservation and coastal management in dynamic beach–dune environments.
 
 ::: {.grid}

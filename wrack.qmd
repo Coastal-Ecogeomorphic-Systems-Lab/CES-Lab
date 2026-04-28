@@ -5,7 +5,6 @@ title: "Beach Wrack as a Nature-Based Solution to Dune Restoration"
 ::: {.grid}
 
 ::: {.g-col-4}
-
 This research involves a set of projects examining beach wrack (e.g., seaweed and organic debris) as a form of natural coastal infrastructure. The work focuses on how wrack presence, removal, or redistribution influences wind flow, sediment trapping, and beach–dune feedbacks. 
 <br>
 A central component evaluates how different wrack management strategies—leave, remove, or redistribute—affect beach–dune morphology. Using field-based measurements and high-resolution topographic data, this work assesses how management decisions shape sediment retention, dune development, and coastal resilience. A complementary project investigates process-scale dynamics by quantifying how individual wrack elements modify near-surface aerodynamics and sediment deposition under varying wind speeds and directions. This provides mechanistic insight into how wrack contributes to dune building and stabilization. A third component examines public perception of beach wrack, exploring how beach users evaluate tradeoffs among aesthetics, recreation, and ecological function. These insights help connect physical science findings with management preferences and decision-making. 

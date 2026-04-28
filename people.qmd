@@ -18,8 +18,8 @@ title: "People"
 
 ::: {.column width="83%"}
 
-**[Phillip Schmutz, PhD](https://phillipschmutz.github.io/)** <br>
-Assocaite Professor, Department of Earth & Environmental Sciences <Br>
+**[Phillip Schmutz, PhD](https://phillipschmutz.github.io/)** <br> 
+Assocaite Professor, Department of Earth & Environmental Sciences <br>
 University of West Florida  
 pschmutz[at]uwf.edu
 
