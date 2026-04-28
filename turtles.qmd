@@ -1,5 +1,6 @@
 ---
-title: "Current Reserach"
+title: "Sea Turtle Nesting Species Distribution Modeling"
+"
 ---
 
 This research involves a suite of projects leveraging a 22-year dataset of sea turtle nesting activity from Escambia County, Florida to examine spatial patterns and environmental controls on nesting behavior.
@@ -9,7 +10,7 @@ Together, these projects link spatial statistics, geomorphology, and long-term e
 ::: {.grid}
 
 ::: {.g-col-6}
-### Sea Turtle Nesting Species Distribution Modeling
+### Spatial-Temporal Analysis
 A core component of this project applies geospatial cluster analysis to identify persistent nesting hotspots and evaluate how nesting distributions vary across developed and undeveloped coastlines. These patterns are further explored through time-series analyses to assess interannual variability and longer-term trends in nesting activity. 
 
 <br>
@@ -23,7 +24,7 @@ Sea turtle nesting behavior along Florida’s western panhandle remains poorly c
 
 :::
 ::: {.g-col-6}
-
+### Presence--Pseudo-Absence
 Another major focus quantifies the influence of beach and dune geomorphology on nest-site selection. By integrating high-resolution topographic data with both presence and pseudo-absence nesting data, this work evaluates how physical landscape characteristics shape nesting probability at fine spatial scales. A complementary effort expands this framework by incorporating nested data structures that include both successful nests and false crawls, providing additional insight into the decision-making process underlying nesting attempts. 
 
 <br>
