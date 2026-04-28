@@ -22,7 +22,7 @@ A core component of this project applies geospatial cluster analysis to identify
 
 
 
-### Presence--Pseudo-Absence
+#### Presence--Pseudo-Absence
 
 Another major focus quantifies the influence of beach and dune geomorphology on nest-site selection. By integrating high-resolution topographic data with both presence and pseudo-absence nesting data, this work evaluates how physical landscape characteristics shape nesting probability at fine spatial scales. A complementary effort expands this framework by incorporating nested data structures that include both successful nests and false crawls, providing additional insight into the decision-making process underlying nesting attempts. 
 

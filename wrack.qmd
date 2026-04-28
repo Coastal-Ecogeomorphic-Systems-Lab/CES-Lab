@@ -6,7 +6,7 @@ This research involves a set of projects examining beach wrack (e.g., seaweed an
 
 Together, these projects link coastal geomorphology, process-based understanding, and human dimensions to provide empirical guidance for nature-based dune restoration and coastal hazard mitigation under increasing disturbance and sea-level rise.
 
-### Projects: 
+### Projects:
 #### Wrack Management Treatments
 
 A central component evaluates how different wrack management strategies—leave, remove, or redistribute—affect beach–dune morphology. Using field-based measurements and high-resolution topographic data, this work assesses how management decisions shape sediment retention, dune development, and coastal resilience.   
